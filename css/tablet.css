@@ -1,0 +1,28 @@
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.main-exchange-container .backgroundImg {
+    width: 280px;
+    height: 280px;
+}
+
+.product-cards--container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
+
+footer .left ul {
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 2.4rem;        
+}
